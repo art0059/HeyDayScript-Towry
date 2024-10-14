@@ -1,6 +1,6 @@
 # HeyDayScript-Towry
 
-This is the virtual version of Auburn's Hey Day. Fill out the name tag and get greeted just like you would on the concourse.
+This is the virtual version of Auburn's Hey Day (http://sga.auburn.edu/hey-day/). It is where all of the students say hey to one another and get to know each other. Fill out the name tag and get greeted just like you would on the concourse.
 
 # How the script works:
 1. The script will first ask you to type in your name, like you would write on a name tag.
